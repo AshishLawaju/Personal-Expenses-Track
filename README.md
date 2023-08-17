@@ -1,5 +1,7 @@
 # personalexpenses
 
+FOR android and IOS
+
 A new Flutter project.
 
 ## Getting Started
